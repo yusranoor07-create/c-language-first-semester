@@ -1,1 +1,1 @@
-# Code-of-C-Language
+# Code-of-C-Language (Calculating discount )
