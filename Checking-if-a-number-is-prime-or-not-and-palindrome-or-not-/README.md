@@ -1,0 +1,1 @@
+# Checking-if-a-number-is-prime-or-not-and-palindrome-or-not-
