@@ -1,0 +1,1 @@
+# Calculate-the-average-marks-of-students-using-arrays.
